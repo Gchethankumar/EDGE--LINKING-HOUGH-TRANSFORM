@@ -28,8 +28,8 @@ Display the image and end the program.
 
 ## Program:
 ```
-Developed by : Gumma Dileep Kumar
-Register no : 212222240032
+Developed by : G.Chethan Kumar
+Register no : 212222240022
 ```
 ### Read image and convert it to grayscale image
 ```Python
